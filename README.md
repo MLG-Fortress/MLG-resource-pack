@@ -8,4 +8,8 @@ Post them in the [issue tracker](https://github.com/RoboMWM/MLG-resource-pack/is
 1. Make a Github account if you haven't.
 2. Click the "Fork" button at the top right.
 2. Install [Github Desktop](http://desktop.github.com/)
-3. I'm not sure about the rest because I never worked with a forked repository (idk if pull requests work in the program or if you have to do it online)
+3. After taking the tutorial, clone the MLG-resource-pack (should be in your repositories in your account). Make sure you know where you're cloning it so you can find and edit the files :P
+4. You can close Github Desktop now if you want.
+4. Edit the files as you normally do.
+5. Open Github Desktop and make a commit when you want to submit changes.
+6. Submit a pull request (might have to do this online)
