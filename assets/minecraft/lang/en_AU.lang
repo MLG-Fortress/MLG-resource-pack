@@ -1,42 +1,44 @@
 
 language.name=English
-language.region=US
-language.code=en_US
+language.region=AU
+language.code=en_AU
 
 gui.done=D0ne
 gui.cancel=C4nc3l
-gui.back=B4ck
-gui.toMenu=Back to title screen
+gui.back=Back
+gui.toMenu=Rage to title screen
 gui.up=Up
 gui.down=Down
-gui.yes=Y3s
-gui.no=N0
+gui.yes=Yes
+gui.no=No
 
-menu.singleplayer=S1ng3lplyaer
-menu.multiplayer=Mlut1play3r
-menu.online=M1necr4ft R3alms
-menu.options=Opti0ns
-menu.quit=Ragequit
-menu.returnToMenu=Save and Rage2Title
-menu.disconnect=Ragequitmenu.returnToGame=Back 2 reking
+menu.singleplayer=S1ngl3plyaer
+menu.multiplayer=Mlut1pl4yer
+menu.online=M1n3craft R3alms
+menu.options=Opti0ns...
+menu.quit=Ragequit Game
+menu.returnToMenu=Save and Rage 2 Title
+menu.disconnect=Ragequit
+menu.returnToGame=Git Bak Haer
 menu.switchingLevel=Switching worlds
-menu.generatingLevel=G3n3rating world
-menu.loadingLevel=L0ad1ng world
-menu.generatingTerrain=Building t3rrian
+menu.generatingLevel=Generating world
+menu.loadingLevel=Loading world
+menu.generatingTerrain=Building terrain
 menu.convertingLevel=Converting world
 menu.simulating=Simulating the world for a bit
 menu.respawning=Respawning
-menu.shareToLan=Open 3 LAN
+menu.shareToLan=Open to LAN
 
 selectWorld.title=Select World
 selectWorld.empty=empty
 selectWorld.world=World
-selectWorld.select=Play Sel3ct3d W0rld
-selectWorld.create=Cre4te N3w W0rld
+selectWorld.select=Play Selected World
+selectWorld.create=Create New World
 selectWorld.recreate=Re-Create
 selectWorld.createDemo=Play New Demo World
-selectWorld.delete=D3leteselectWorld.rename=Ren4me
-selectWorld.deleteQuestion=Are you sure you want 2 delete this world?
+selectWorld.delete=Delete
+selectWorld.rename=Rename
+selectWorld.deleteQuestion=R u sure u want 2 make world kill?
 selectWorld.deleteWarning=will be lost 5ever! (A l0ng time!)
 selectWorld.deleteButton=Delete
 selectWorld.renameButton=Rename
@@ -108,7 +110,7 @@ selectServer.edit=Edit
 selectServer.delete=Delete
 selectServer.add=Add server
 selectServer.defaultName=Minecraft Server
-selectServer.deleteQuestion=Are u sure u wnat 2 r3move th1s server?
+selectServer.deleteQuestion=Are you sure you want to remove this server?
 selectServer.deleteWarning=will be lost forever! (A long time!)
 selectServer.deleteButton=Delete
 selectServer.refresh=Refresh
@@ -119,7 +121,7 @@ addServer.enterIp=Server Address
 addServer.add=Done
 addServer.hideAddress=Hide Address
 lanServer.title=LAN World
-lanServer.scanning=Scanning 4 gaems on ur local netw0rk
+lanServer.scanning=Scanning for games on your local network
 lanServer.start=Start LAN World
 lanServer.otherPlayers=Settings for Other Players
 mcoServer.title=Minecraft Online World
@@ -137,7 +139,7 @@ multiplayer.downloadingTerrain=Downloading terrain
 
 multiplayer.stopSleeping=Leave Bed
 
-chat.link.confirm=Are you sure you want to open the following meme?
+chat.link.confirm=Are you sure you want to open the following website?
 chat.link.warning=Never open links from people that you don't trust!
 chat.copy=Copy to Clipboard
 
@@ -163,9 +165,9 @@ demo.help.fullWrapped=This demo will last 5 ingame days (about 1 hour and 40 min
 demo.help.buy=Purchase Now!
 demo.help.later=Continue Playing!
 
-connect.connecting=C0nn3cting to the server...
+connect.connecting=Connecting to the server...
 connect.authorizing=Logging in...
-connect.failed=F4iled to conn3ct to the server
+connect.failed=Failed to connect to the server
 
 disconnect.genericReason=%s
 disconnect.disconnected=Disconnected by Server
@@ -515,7 +517,8 @@ item.shovelIron.name=Iron Shovel
 item.pickaxeIron.name=Iron Pickaxe
 item.hatchetIron.name=Iron Axe
 item.flintAndSteel.name=Flint and Steel
-item.apple.name=Doritositem.cookie.name=Cookie
+item.apple.name=Doritos
+item.cookie.name=Cookie
 item.bow.name=Gun
 item.arrow.name=Arrow
 item.coal.name=Coal
@@ -562,17 +565,19 @@ item.helmetCloth.name=Leather Fedora
 item.chestplateCloth.name=Leather Tunic
 item.leggingsCloth.name=Leather Pants
 item.bootsCloth.name=Leather Boots
-item.helmetChain.name=Chain Fedoraitem.chestplateChain.name=Chain Chestplate
+item.helmetChain.name=Chain Fedora
+item.chestplateChain.name=Chain Chestplate
 item.leggingsChain.name=Chain Leggings
 item.bootsChain.name=Chain Boots
-item.helmetIron.name=Iron Fedoraitem.chestplateIron.name=Iron Chestplate
+item.helmetIron.name=Iron Fedora
+item.chestplateIron.name=Iron Chestplate
 item.leggingsIron.name=Iron Leggings
 item.bootsIron.name=Iron Boots
 item.helmetDiamond.name=Diamond Fedora
 item.chestplateDiamond.name=Diamond Chestplate
 item.leggingsDiamond.name=Diamond Leggings
 item.bootsDiamond.name=Diamond Boots
-item.helmetGold.name=Golden Helmet
+item.helmetGold.name=Golden Fedora
 item.chestplateGold.name=Golden Chestplate
 item.leggingsGold.name=Golden Leggings
 item.bootsGold.name=Golden Boots
@@ -839,14 +844,13 @@ death.attack.thorns=%1$s was killed trying to hurt %2$s
 death.attack.fall=%1$s hit the ground too hard
 death.attack.outOfWorld=%1$s fell out of the world
 
-deathScreen.respawn=Respawn
+deathScreen.respawn=try harder
 deathScreen.deleteWorld=Delete world
 deathScreen.titleScreen=Title screen
 deathScreen.score=Score
-deathScreen.title.hardcore=u got rekt m9
-deathScreen.hardcoreInfo=You cannot respawn in hardcore mode!
-deathScreen.title=u got rekt m9
-deathScreen.leaveServer=Leave server
+deathScreen.title.hardcore=lol u got rekt m9deathScreen.hardcoreInfo=You cannot respawn in hardcore mode!
+deathScreen.title=lol u got rekt m9
+deathScreen.leaveServer=Ragequit
 
 potion.empty=No Effects
 potion.moveSpeed=Speed
