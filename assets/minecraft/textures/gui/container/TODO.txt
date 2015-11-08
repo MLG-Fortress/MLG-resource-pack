@@ -1,0 +1,2 @@
+enchanting_table.png
+furnace.png
