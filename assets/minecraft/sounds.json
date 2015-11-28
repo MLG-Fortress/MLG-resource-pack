@@ -1,0 +1,99 @@
+{
+  "ambient.cave.cave": {
+    "category": "ambient",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ambient/cave/cave1",
+        "volume": 1.0,
+        "stream": true,
+        "type": "event",
+        "pitch": 1.0
+      }
+      {
+        "name": "ambient/cave/cave2",
+        "volume": 1.0,
+        "stream": true,
+        "type": "event",
+        "pitch": 1.0
+      }
+      {
+        "name": "ambient/cave/cave3",
+        "volume": 1.0,
+        "stream": true,
+        "type": "event",
+        "pitch": 1.0
+      }
+      {
+        "name": "ambient/cave/cave4",
+        "volume": 1.0,
+        "stream": true,
+        "type": "event",
+        "pitch": 1.0
+      }
+      {
+        "name": "ambient/cave/cave5",
+        "volume": 1.0,
+        "stream": true,
+        "type": "event",
+        "pitch": 1.0
+      }
+      {
+        "name": "ambient/cave/cave6",
+        "volume": 1.0,
+        "stream": true,
+        "type": "event",
+        "pitch": 1.0
+      }
+      {
+        "name": "ambient/cave/cave7",
+        "volume": 1.0,
+        "stream": true,
+        "type": "event",
+        "pitch": 1.0
+      }
+      {
+        "name": "ambient/cave/cave8",
+        "volume": 1.0,
+        "stream": true,
+        "type": "event",
+        "pitch": 1.0
+      }
+      {
+        "name": "ambient/cave/cave9",
+        "volume": 1.0,
+        "stream": true,
+        "type": "event",
+        "pitch": 1.0
+      }
+      {
+        "name": "ambient/cave/cave10",
+        "volume": 1.0,
+        "stream": true,
+        "type": "event",
+        "pitch": 1.0
+      }
+      {
+        "name": "ambient/cave/cave11",
+        "volume": 1.0,
+        "stream": true,
+        "type": "event",
+        "pitch": 1.0
+      }
+      {
+        "name": "ambient/cave/cave12",
+        "volume": 1.0,
+        "stream": true,
+        "type": "event",
+        "pitch": 1.0
+      }
+      {
+        "name": "ambient/cave/cave13",
+        "volume": 1.0,
+        "stream": true,
+        "type": "event",
+        "pitch": 1.0
+      }
+    ]
+  
+}
