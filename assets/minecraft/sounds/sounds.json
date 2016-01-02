@@ -1,0 +1,324 @@
+{
+  "custom.custom": {
+    "category": "ambient",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "custom/custom1",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom2",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom3",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom4",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom5",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom6",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom7",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom8",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom9",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom10",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom11",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom12",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom13",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom14",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom15",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom16",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom17",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom18",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom19",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom20",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom21",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom22",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom23",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom24",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom25",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom26",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom27",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom28",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom29",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom30",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom31",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom32",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom33",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom34",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom35",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom36",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom37",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom38",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom39",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom40",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom41",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom42",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom43",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom44",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom45",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom46",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom47",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom48",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom49",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom50",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom51",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom52",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom53",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom54",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom55",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom56",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom57",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom58",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom59",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom60",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom61",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom62",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom63",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom64",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom65",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom66",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom67",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom68",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom69",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom70",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom71",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom72",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom73",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom74",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom75",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom76",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom77",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom78",
+        "stream": true,
+      }
+      {
+        "name": "custom/custom79",
+        "stream": true,
+      }
+    ]
+  
+}
