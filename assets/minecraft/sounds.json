@@ -7,6 +7,18 @@
         "stream": true
       },
       {
+        "name": "custom/mumscar",
+        "stream": true
+      },
+      {
+        "name": "custom/allstartrumpets",
+        "stream": true
+      },
+      {
+        "name": "custom/hakunamutata",
+        "stream": true
+      },
+      {
         "name": "custom/anotherone",
         "stream": true
       },
@@ -23,10 +35,6 @@
         "stream": true
       },
       {
-        "name": "custom/boomboomboom",
-        "stream": true
-      },
-      {
         "name": "custom/boomslam",
         "stream": true
       },
@@ -35,31 +43,7 @@
         "stream": true
       },
       {
-        "name": "custom/cantbreath",
-        "stream": true
-      },
-      {
-        "name": "custom/christmas.rudolph",
-        "stream": true
-      },
-      {
-        "name": "custom/christmas.sleighbells",
-        "stream": true
-      },
-      {
-        "name": "custom/christmas.songs",
-        "stream": true
-      },
-      {
-        "name": "custom/christmas.white",
-        "stream": true
-      },
-      {
         "name": "custom/coconut",
-        "stream": true
-      },
-      {
-        "name": "custom/comingtotakemeaway",
         "stream": true
       },
       {
@@ -68,14 +52,6 @@
       },
       {
         "name": "custom/crazyfrog",
-        "stream": true
-      },
-      {
-        "name": "custom/darude",
-        "stream": true
-      },
-      {
-        "name": "custom/dramatic",
         "stream": true
       },
       {
@@ -88,14 +64,6 @@
       },
       {
         "name": "custom/fallenandcantgetup",
-        "stream": true
-      },
-      {
-        "name": "custom/gangnam1",
-        "stream": true
-      },
-      {
-        "name": "custom/gangnam2",
         "stream": true
       },
       {
@@ -119,10 +87,6 @@
         "stream": true
       },
       {
-        "name": "custom/internet",
-        "stream": true
-      },
-      {
         "name": "custom/iwroteasong",
         "stream": true
       },
@@ -139,27 +103,7 @@
         "stream": true
       },
       {
-        "name": "custom/johncena.sith",
-        "stream": true
-      },
-      {
         "name": "custom/johncena.trumpets",
-        "stream": true
-      },
-      {
-        "name": "custom/justdoit1",
-        "stream": true
-      },
-      {
-        "name": "custom/justdoit2",
-        "stream": true
-      },
-      {
-        "name": "custom/justdoit3",
-        "stream": true
-      },
-      {
-        "name": "custom/mlgmarriage",
         "stream": true
       },
       {
@@ -167,43 +111,11 @@
         "stream": true
       },
       {
-        "name": "custom/music2",
-        "stream": true
-      },
-      {
-        "name": "custom/music3",
-        "stream": true
-      },
-      {
-        "name": "custom/music4",
-        "stream": true
-      },
-      {
-        "name": "custom/music5",
-        "stream": true
-      },
-      {
         "name": "custom/music6",
         "stream": true
       },
       {
-        "name": "custom/music7",
-        "stream": true
-      },
-      {
-        "name": "custom/music8",
-        "stream": true
-      },
-      {
-        "name": "custom/music9",
-        "stream": true
-      },
-      {
         "name": "custom/music10",
-        "stream": true
-      },
-      {
-        "name": "custom/music11",
         "stream": true
       },
       {
@@ -239,31 +151,11 @@
         "stream": true
       },
       {
-        "name": "custom/soldierboy.techno",
-        "stream": true
-      },
-      {
-        "name": "custom/sonisstarving",
-        "stream": true
-      },
-      {
         "name": "custom/sonsfavourite",
         "stream": true
       },
       {
         "name": "custom/spacebomb",
-        "stream": true
-      },
-      {
-        "name": "custom/spookyscaryskeles",
-        "stream": true
-      },
-      {
-        "name": "custom/starwars",
-        "stream": true
-      },
-      {
-        "name": "custom/story",
         "stream": true
       },
       {
@@ -300,14 +192,6 @@
       },
       {
         "name": "custom/turndownforwhat",
-        "stream": true
-      },
-      {
-        "name": "custom/unknown1",
-        "stream": true
-      },
-      {
-        "name": "custom/unknown2",
         "stream": true
       },
       {
