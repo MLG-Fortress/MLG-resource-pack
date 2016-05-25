@@ -4,7 +4,7 @@
   "replace": true,
   "sounds": [
       "death/death1",
-      "death/death2",
+      "death/death2"
     ]
   },
   "game.player.hurt": {
@@ -12,23 +12,23 @@
   "replace": true,
   "sounds": [
       {
-        "name": "custom/classic_hurt"
+        "name": "custom/classic_hurt",
         "pitch": 2
       },
       {
-        "name": "custom/classic_hurt"
+        "name": "custom/classic_hurt",
         "pitch": 1
       },
       {
-        "name": "custom/classic_hurt"
+        "name": "custom/classic_hurt",
         "pitch": 0
       },
       {
-        "name": "custom/classic_hurt"
+        "name": "custom/classic_hurt",
         "pitch": -1
       },
       {
-        "name": "custom/classic_hurt"
+        "name": "custom/classic_hurt",
         "pitch": 3
       },
       "custom/classic_hurt"
