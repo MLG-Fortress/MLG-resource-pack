@@ -1,4 +1,12 @@
 {
+  "fortress.longfallboots": {
+    "category": "player",
+    "sounds": [
+      "fortress/longfall_land_01",
+      "fortress/longfall_land_02",
+      "fortress/longfall_land_03"
+    ]
+  },
   "entity.player.death": {
     "category": "player",
     "replace": true,
