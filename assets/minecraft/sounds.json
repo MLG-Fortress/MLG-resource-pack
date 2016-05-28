@@ -1,4 +1,11 @@
 {
+  "fortress.healthcanister": {
+    "category": "player",
+    "sounds": [
+      "fortress/heart_canister",
+      "fortress/heart_canister2"
+    ]
+  },
   "fortress.longfallboots": {
     "category": "player",
     "sounds": [
