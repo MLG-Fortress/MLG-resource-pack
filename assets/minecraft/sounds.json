@@ -3,7 +3,14 @@
     "category": "player",
     "sounds": [
       "fortress/heart_canister",
-      "fortress/heart_canister2"
+      "fortress/heart_canister2",
+	  "fortress/heart_canister3"
+    ]
+  },
+  "fortress.death": {
+    "category": "player",
+    "sounds": [
+	  "fortress/selfdeath"
     ]
   },
   "fortress.longfallboots": {
@@ -19,17 +26,16 @@
     "replace": true,
     "sounds": [
       "death/death1",
-      "death/death2"
+      "death/death2",
+      "death/death3",
+	  "death/death4",
+	  "death/death5"
     ]
   },
   "entity.player.hurt": {
     "category": "player",
     "replace": true,
     "sounds": [
-      {
-        "name": "random/classic_hurt",
-        "pitch": 2
-      },
       "random/classic_hurt"
     ]
   },
@@ -94,10 +100,6 @@
       },
       {
         "name": "custom/drivinghard2",
-        "stream": true
-      },
-      {
-        "name": "custom/fallenandcantgetup",
         "stream": true
       },
       {
