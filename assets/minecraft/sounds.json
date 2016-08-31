@@ -7,10 +7,20 @@
 	  "fortress/heart_canister3"
     ]
   },
+  "fortress.lowhealth": {
+    "category": "player",
+    "sounds": [
+	  "fortress/lowhealth",
+	  "fortress/lowhealth2",
+	  "fortress/lowhealth3",
+	  "fortress/lowhealth4"
+    ]
+  },
   "fortress.death": {
     "category": "player",
     "sounds": [
-	  "fortress/selfdeath"
+	  "fortress/selfdeath",
+	  "fortress/selfdeath2"
     ]
   },
   "fortress.longfallboots": {
@@ -29,7 +39,8 @@
       "death/death2",
       "death/death3",
 	  "death/death4",
-	  "death/death5"
+	  "death/death5",
+	  "death/death6"
     ]
   },
   "entity.player.hurt": {
