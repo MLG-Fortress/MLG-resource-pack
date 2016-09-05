@@ -10,10 +10,7 @@
   "fortress.lowhealth": {
     "category": "player",
     "sounds": [
-	  "fortress/lowhealth",
-	  "fortress/lowhealth2",
-	  "fortress/lowhealth3",
-	  "fortress/lowhealth4"
+	  "fortress/criticalhealth"
     ]
   },
   "fortress.death": {
