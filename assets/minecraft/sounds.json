@@ -13,6 +13,12 @@
 	  "fortress/criticalhealth"
     ]
   },
+  "fortress.lowehealthgasp": {
+    "category": "player",
+    "sounds": [
+	  "fortress/gasp"
+    ]
+  },
   "fortress.death": {
     "category": "player",
     "sounds": [
@@ -28,6 +34,11 @@
       "fortress/longfall_land_03"
     ]
   },
+  "fortress.jail": {
+    "sounds": [
+	  "fortress/jail"
+    ]
+  },
   "entity.player.death": {
     "category": "player",
     "replace": true,
@@ -37,11 +48,18 @@
       "death/death3",
 	  "death/death4",
 	  "death/death5",
-	  "death/death6"
+	  "death/death6",
+	  "death/death7"
     ]
   },
   "entity.player.hurt": {
     "category": "player",
+    "replace": true,
+    "sounds": [
+      "random/classic_hurt"
+    ]
+  },
+  "entity.arrow.shoot": {
     "replace": true,
     "sounds": [
       "random/classic_hurt"
