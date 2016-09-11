@@ -10,20 +10,32 @@
   "fortress.lowhealth": {
     "category": "player",
     "sounds": [
-	  "fortress/criticalhealth"
+      {
+        "name": "fortress/criticalhealth",
+        "stream": true
+      }
     ]
   },
   "fortress.lowehealthgasp": {
     "category": "player",
     "sounds": [
-	  "fortress/gasp"
+      {
+        "name": "fortress/gasp",
+        "stream": true
+      }
     ]
   },
   "fortress.death": {
     "category": "player",
     "sounds": [
-	  "fortress/selfdeath",
-	  "fortress/selfdeath2"
+	  {
+        "name": "fortress/selfdeath",
+        "stream": true
+      },
+	  {
+        "name": "fortress/selfdeath2",
+        "stream": true
+      }
     ]
   },
   "fortress.longfallboots": {
@@ -36,7 +48,10 @@
   },
   "fortress.jail": {
     "sounds": [
-	  "fortress/jail"
+	  {
+        "name": "fortress/jail",
+        "stream": true
+      }
     ]
   },
   "entity.player.death": {
@@ -50,13 +65,6 @@
 	  "death/death5",
 	  "death/death6",
 	  "death/death7"
-    ]
-  },
-  "entity.player.hurt": {
-    "category": "player",
-    "replace": true,
-    "sounds": [
-      "random/classic_hurt"
     ]
   },
   "entity.arrow.shoot": {
