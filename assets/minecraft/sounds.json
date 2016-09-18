@@ -38,6 +38,24 @@
       }
     ]
   },
+  "fortress.elimination": {
+    "category": "player",
+    "sounds": [
+	  {
+        "name": "fortress/elimination",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.healthheart": {
+    "category": "player",
+    "sounds": [
+	  {
+        "name": "fortress/healthheart",
+        "stream": true
+      }
+    ]
+  },
   "fortress.longfallboots": {
     "category": "player",
     "sounds": [
