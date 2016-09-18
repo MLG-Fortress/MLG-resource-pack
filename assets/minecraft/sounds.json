@@ -91,6 +91,12 @@
       "fortress/bow"
     ]
   },
+  "entity.skeleton.shoot": {
+    "replace": true,
+    "sounds": [
+      "fortress/bow"
+    ]
+  },
   "custom-stuff": {
     "category": "ambient",
     "sounds": [
