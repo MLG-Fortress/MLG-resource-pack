@@ -16,7 +16,7 @@
       }
     ]
   },
-  "fortress.lowehealthgasp": {
+  "fortress.lowhealthgasp": {
     "category": "player",
     "sounds": [
       {
@@ -43,7 +43,7 @@
     "sounds": [
 	  {
         "name": "fortress/elimination",
-        "stream": true
+        "stream": false
       }
     ]
   },
@@ -52,7 +52,7 @@
     "sounds": [
 	  {
         "name": "fortress/healthheart",
-        "stream": true
+        "stream": false
       }
     ]
   },
