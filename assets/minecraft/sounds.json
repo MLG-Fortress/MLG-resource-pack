@@ -88,7 +88,7 @@
   "entity.arrow.shoot": {
     "replace": true,
     "sounds": [
-      "random/classic_hurt"
+      "fortress/bow"
     ]
   },
   "custom-stuff": {
