@@ -105,19 +105,7 @@
         "stream": true
       },
       {
-        "name": "custom/mumscar",
-        "stream": true
-      },
-      {
         "name": "custom/allstartrumpets",
-        "stream": true
-      },
-      {
-        "name": "custom/hakunamutata",
-        "stream": true
-      },
-      {
-        "name": "custom/anotherone",
         "stream": true
       },
       {
@@ -125,27 +113,7 @@
         "stream": true
       },
       {
-        "name": "custom/barney1",
-        "stream": true
-      },
-      {
-        "name": "custom/barney2",
-        "stream": true
-      },
-      {
-        "name": "custom/boomslam",
-        "stream": true
-      },
-      {
-        "name": "custom/buildasnowman",
-        "stream": true
-      },
-      {
         "name": "custom/coconut",
-        "stream": true
-      },
-      {
-        "name": "custom/cookieman",
         "stream": true
       },
       {
@@ -157,43 +125,11 @@
         "stream": true
       },
       {
-        "name": "custom/drivinghard2",
-        "stream": true
-      },
-      {
-        "name": "custom/getuprightnow",
-        "stream": true
-      },
-      {
-        "name": "custom/goodforyou",
-        "stream": true
-      },
-      {
-        "name": "custom/happy",
-        "stream": true
-      },
-      {
-        "name": "custom/happybday",
-        "stream": true
-      },
-      {
-        "name": "custom/inmemumscar",
-        "stream": true
-      },
-      {
         "name": "custom/iwroteasong",
         "stream": true
       },
       {
-        "name": "custom/johncena.hello",
-        "stream": true
-      },
-      {
         "name": "custom/johncena.music",
-        "stream": true
-      },
-      {
-        "name": "custom/johncena.mynameis",
         "stream": true
       },
       {
@@ -222,14 +158,6 @@
       },
       {
         "name": "custom/nothisisscrub",
-        "stream": true
-      },
-      {
-        "name": "custom/pingu",
-        "stream": true
-      },
-      {
-        "name": "custom/reallyreallyreally",
         "stream": true
       },
       {
@@ -265,15 +193,7 @@
         "stream": true
       },
       {
-        "name": "custom/tf2.heavymusic",
-        "stream": true
-      },
-      {
         "name": "custom/thegame",
-        "stream": true
-      },
-      {
-        "name": "custom/thingsflyaround",
         "stream": true
       },
       {
@@ -285,15 +205,7 @@
         "stream": true
       },
       {
-        "name": "custom/turndownforwhat",
-        "stream": true
-      },
-      {
         "name": "custom/unknown3",
-        "stream": true
-      },
-      {
-        "name": "custom/welcometothejungle",
         "stream": true
       }
     ]
