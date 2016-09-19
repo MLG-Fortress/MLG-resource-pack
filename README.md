@@ -13,3 +13,6 @@ Post them in the [issue tracker](https://github.com/RoboMWM/MLG-resource-pack/is
 4. Edit the files as you normally do.
 5. Open Github Desktop and make a commit when you want to submit changes.
 6. Submit a pull request (might have to do this online)
+
+###Got bad internets and having trouble syncing your commits?
+Zip up the entire folder and attach it to a [new issue](https://github.com/MLG-Fortress/MLG-resource-pack/issues)
