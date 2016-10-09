@@ -41,19 +41,13 @@
   "fortress.elimination": {
     "category": "player",
     "sounds": [
-	  {
-        "name": "fortress/elimination",
-        "stream": false
-      }
+	  "fortress/elimination"
     ]
   },
   "fortress.healthheart": {
     "category": "player",
     "sounds": [
-	  {
-        "name": "fortress/healthheart",
-        "stream": false
-      }
+	  "fortress/healthheart"
     ]
   },
   "fortress.longfallboots": {
@@ -66,12 +60,60 @@
   },
   "fortress.jail": {
     "sounds": [
+	  "fortress/jail"
+  },
+  "fortress.mall": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "fortress/mall/AlphysShopChannel",
+        "stream": true
+      },
 	  {
-        "name": "fortress/jail",
+        "name": "fortress/mall/buysomething",
+        "stream": true
+      },
+	  {
+        "name": "fortress/mall/fleamarket",
+        "stream": true
+      },
+	  {
+        "name": "fortress/mall/fleamarket2",
+        "stream": true
+      },
+	  {
+        "name": "fortress/mall/GrandDadInAnElevator",
+        "stream": true
+      },
+	  {
+        "name": "fortress/mall/mall",
+        "stream": true
+      },
+	  {
+        "name": "fortress/mall/memedrops",
+        "stream": true
+      },
+	  {
+        "name": "fortress/mall/Nintendogsong",
+        "stream": true
+      },
+	  {
+        "name": "fortress/mall/SplatoonBooyahBaseShopping",
+        "stream": true
+      },
+	  {
+        "name": "fortress/mall/WiiShopChannel",
+        "stream": true
+      },
+	  {
+        "name": "fortress/mall/WiiShoppingInsideaHouse",
+        "stream": true
+      },
+	  {
+        "name": "fortress/mall/H3H3ProductionsTheme"
         "stream": true
       }
     ]
-  },
   "entity.player.death": {
     "category": "player",
     "replace": true,
