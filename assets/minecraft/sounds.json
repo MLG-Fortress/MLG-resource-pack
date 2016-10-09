@@ -35,6 +35,10 @@
 	  {
         "name": "fortress/selfdeath2",
         "stream": true
+      },
+	  {
+        "name": "fortress/selfdeath3",
+        "stream": true
       }
     ]
   },
@@ -61,6 +65,7 @@
   "fortress.jail": {
     "sounds": [
 	  "fortress/jail"
+	]
   },
   "fortress.mall": {
     "category": "ambient",
@@ -110,10 +115,11 @@
         "stream": true
       },
 	  {
-        "name": "fortress/mall/H3H3ProductionsTheme"
+        "name": "fortress/mall/H3H3ProductionsTheme",
         "stream": true
       }
     ]
+  },
   "entity.player.death": {
     "category": "player",
     "replace": true,
@@ -137,6 +143,202 @@
     "replace": true,
     "sounds": [
       "fortress/bow"
+    ]
+  },
+  "fortress.chat.anotherone": {
+    "sounds": [
+      {
+        "name": "fortress/chat/anotherone",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.birthday": {
+    "sounds": [
+      {
+        "name": "fortress/chat/birthday",
+        "stream": true
+      },
+	  {
+        "name": "fortress/chat/birthday2",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.car": {
+    "sounds": [
+      {
+        "name": "fortress/chat/car",
+        "stream": true
+      },
+	  {
+        "name": "fortress/chat/car2",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.engineer": {
+    "sounds": [
+      {
+        "name": "fortress/chat/EngieMan",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.goodforyou": {
+    "sounds": [
+      {
+        "name": "fortress/chat/goodforyou",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.hakunamutata": {
+    "sounds": [
+      {
+        "name": "fortress/chat/hakunamutata",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.happy": {
+    "sounds": [
+      {
+        "name": "fortress/chat/happy",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.hello": {
+    "sounds": [
+      {
+        "name": "fortress/chat/hello",
+        "stream": true
+      },
+	  {
+        "name": "fortress/chat/hello2",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.internet": {
+    "sounds": [
+      {
+        "name": "fortress/chat/internet",
+        "stream": true
+      },
+	  {
+        "name": "fortress/chat/internet2",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.pirate": {
+    "sounds": [
+      {
+        "name": "fortress/chat/pirate",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.really": {
+    "sounds": [
+      {
+        "name": "fortress/chat/really",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.seeyoulater": {
+    "sounds": [
+      {
+        "name": "fortress/chat/seeyoulater",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.selfie": {
+    "sounds": [
+      {
+        "name": "fortress/chat/selfie",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.shush": {
+    "sounds": [
+      {
+        "name": "fortress/chat/",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.snowman": {
+    "sounds": [
+      {
+        "name": "fortress/chat/snowman",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.stop": {
+    "sounds": [
+      {
+        "name": "fortress/chat/stop",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.wam": {
+    "sounds": [
+      {
+        "name": "fortress/chat/",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.welcome": {
+    "sounds": [
+      {
+        "name": "fortress/chat/welcome",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.": {
+    "sounds": [
+      {
+        "name": "fortress/chat/",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.christmas": {
+    "sounds": [
+      {
+        "name": "fortress/christmas/rudolph",
+        "stream": true
+      },
+	  {
+        "name": "fortress/christmas/sleighbells",
+        "stream": true
+      },
+	  {
+        "name": "fortress/christmas/songs",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.spawn": {
+    "sounds": [
+      {
+        "name": "fortress/spawn/spawn",
+        "stream": true
+      },
+	  {
+        "name": "fortress/spawn/spawn2",
+        "stream": true
+      }
     ]
   },
   "custom-stuff": {
