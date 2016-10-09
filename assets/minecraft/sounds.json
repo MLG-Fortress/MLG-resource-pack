@@ -130,10 +130,6 @@
         "stream": true
       },
 	  {
-        "name": "fortress/mall/memedrops",
-        "stream": true
-      },
-	  {
         "name": "fortress/mall/Nintendogsong",
         "stream": true
       },
@@ -149,10 +145,6 @@
         "name": "fortress/mall/WiiShoppingInsideaHouse",
         "stream": true
       },
-	  {
-        "name": "fortress/mall/H3H3ProductionsTheme",
-        "stream": true
-      }
     ]
   },
   "entity.player.death": {
@@ -288,10 +280,10 @@
       }
     ]
   },
-  "fortress.chat.seeyoulater": {
+  "fortress.chat.bye": {
     "sounds": [
       {
-        "name": "fortress/chat/seeyoulater",
+        "name": "fortress/chat/bye",
         "stream": true
       }
     ]
