@@ -39,6 +39,10 @@
 	  {
         "name": "fortress/selfdeath3",
         "stream": true
+      },
+	  {
+        "name": "fortress/selfdeath4",
+        "stream": true
       }
     ]
   },
@@ -67,8 +71,39 @@
 	  "fortress/jail"
 	]
   },
+  "fortress.fight": {
+    "sounds": [
+      {
+        "name": "fortress/fight",
+        "stream": true
+      },
+	  {
+        "name": "fortress/fight2",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.skeletons": {
+    "sounds": [
+      {
+        "name": "fortress/skeletons",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.sunrise": {
+    "sounds": [
+      {
+        "name": "fortress/sunrise",
+        "stream": true
+      },
+	  {
+        "name": "fortress/sunrise2",
+        "stream": true
+      }
+    ]
+  },
   "fortress.mall": {
-    "category": "ambient",
     "sounds": [
       {
         "name": "fortress/mall/AlphysShopChannel",
@@ -218,6 +253,10 @@
 	  {
         "name": "fortress/chat/hello2",
         "stream": true
+      },
+	  {
+        "name": "fortress/chat/hello3",
+        "stream": true
       }
     ]
   },
@@ -301,6 +340,26 @@
     "sounds": [
       {
         "name": "fortress/chat/welcome",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.cake": {
+    "sounds": [
+      {
+        "name": "fortress/chat/cake",
+        "stream": true
+      }
+    ]
+  },
+  "fortress.chat.gummybear": {
+    "sounds": [
+      {
+        "name": "fortress/chat/gummybear",
+        "stream": true
+      },
+	  {
+        "name": "fortress/chat/gummybear2",
         "stream": true
       }
     ]
