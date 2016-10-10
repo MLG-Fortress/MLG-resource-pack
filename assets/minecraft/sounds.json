@@ -144,7 +144,7 @@
 	  {
         "name": "fortress/mall/WiiShoppingInsideaHouse",
         "stream": true
-      },
+      }
     ]
   },
   "entity.player.death": {
@@ -170,6 +170,264 @@
     "replace": true,
     "sounds": [
       "fortress/bow"
+    ]
+  },
+  "block.stone.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/stone1",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone2",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone3",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone4",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone5",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone6",
+        "volume": 8.0
+      }
+    ]
+  },
+  "block.anvil.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/stone1",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone2",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone3",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone4",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone5",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone6",
+        "volume": 8.0
+      }
+    ]
+  },
+  "block.glass.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/stone1",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone2",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone3",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone4",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone5",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone6",
+        "volume": 8.0
+      }
+    ]
+  },
+  "block.metal.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/stone1",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone2",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone3",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone4",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone5",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/stone6",
+        "volume": 8.0
+      }
+    ]
+  },
+  "block.cloth.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/cloth1",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/cloth2",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/cloth3",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/cloth4",
+        "volume": 8.0
+      }
+    ]
+  },
+  "block.grass.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/grass1",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/grass2",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/grass3",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/grass4",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/grass5",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/grass6",
+        "volume": 8.0
+      }
+    ]
+  },
+  "block.gravel.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/gravel1",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/gravel2",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/gravel3",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/gravel4",
+        "volume": 8.0
+      }
+    ]
+  },
+  "block.sand.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/sand1",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/sand2",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/sand3",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/sand4",
+        "volume": 8.0
+      }
+    ]
+  },
+  "block.snow.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/snow1",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/snow2",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/snow3",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/snow4",
+        "volume": 8.0
+      }
+    ]
+  },
+  "block.wood.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "fortress/wood1",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/wood2",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/wood3",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/wood4",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/wood5",
+        "volume": 8.0
+      },
+      {
+        "name": "fortress/wood6",
+        "volume": 8.0
+      }
     ]
   },
   "fortress.chat.anotherone": {
